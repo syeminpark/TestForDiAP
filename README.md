@@ -8,3 +8,4 @@
 atom으로 수정을 해봅니다.
 왜 수정이 반영이 되지 않는 것일까요?
 저장을 눌러야하는군요
+change in atom and post directly
